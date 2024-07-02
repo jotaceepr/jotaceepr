@@ -10,8 +10,8 @@ I am a versatile professional with expertise in website development, graphic des
 -------------------------------------------------------
 ## Portfolio
 ### Website Development Projects:
-- [PrintWisePro] (https://www.printwisepro.com): Your partner in premium printing solutions.
-- [XFSART] (https://xfsart.net)): If you can imagine it, we can make it happen 2D and 3D sculpture and painting works using EPS FOAM.
+- [PrintWisePro](https://www.printwisepro.com): Your partner in premium printing solutions.
+- [XFSART](https://xfsart.net)): If you can imagine it, we can make it happen 2D and 3D sculpture and painting works using EPS FOAM.
 -------------------------------------------------------
 ## How to Reach Me
 - **Email:** jotaceepr@gmail.com
